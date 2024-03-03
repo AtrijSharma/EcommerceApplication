@@ -13,7 +13,7 @@ PostgreSQL (or other database of your choice)
 Clone the repository:
 
 
-git clone https://github.com/your-username/user-authentication-service.git
+git clone (https://github.com/AtrijSharma/EcommerceApplication.git)
 cd user-authentication-service
 Configure database settings in application.properties:
 
@@ -66,7 +66,7 @@ Use the JWT token for accessing protected endpoints in other microservices.
 **Contributing**
 Contributions are welcome! Please open an issue or submit a pull request.
 
-**2 nd microservice ** --- 
+2nd microservice
 
 **Product Management Service**
 The Product Management Service is a microservice that handles CRUD operations for products in an e-commerce application.
@@ -81,7 +81,7 @@ Delete Product: Allows users to delete existing products.
 Clone the Repository: Clone the repository to your local machine using the following command:
 
 
-git clone https://github.com/your-username/product-management-service.git
+git clone (https://github.com/AtrijSharma/EcommerceApplication.git)
 Install Dependencies: Navigate to the project directory and install the required dependencies using Maven:
 
 
@@ -136,7 +136,7 @@ Delete Order: Allows users to delete existing orders.
 Clone the Repository: Clone the repository to your local machine:
 
 
-git clone https://github.com/your-username/order-processing-service.git
+git clone (https://github.com/AtrijSharma/EcommerceApplication.git)
 Install Dependencies: Navigate to the project directory and install the required dependencies:
 
 

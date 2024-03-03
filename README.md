@@ -1,5 +1,6 @@
 # EcommerceApplication
 
+**1st microservice** 
 **User Authentication Service**
 The User Authentication Service is a microservice that provides user registration, login, and token generation functionalities for a simple e-commerce application.
 
@@ -43,6 +44,7 @@ Copy code
   "password": "password123"
 }
 Login and generate a JWT token:
+
 
 Endpoint: /api/auth/login
 Method: POST
